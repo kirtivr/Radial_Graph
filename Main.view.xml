@@ -1,0 +1,15 @@
+<layout:VerticalLayout xmlns="sap.m" xmlns:me="sap.me"
+                       xmlns:core="sap.ui.core" xmlns:layout="sap.ui.layout" xmlns:html="http://www.w3.org/1999/xhtml"
+                       xmlns:rings="com.rings"
+                       class="coolStyleClass">
+    <layout:Grid defaultSpan="L12 M12 S12" vSpacing="4">
+        <VBox>
+            <layoutData>
+                <layout:GridData span="L8 M12 S12" indent="L3 M0 S0"/>
+            </layoutData>
+            <rings:Rings id="concentricRingsOverview" arcThickness="0.8" legendsTitle="Oil Production V/S Consumption"
+                         arcData="{/ringsData}">
+            </rings:Rings>
+        </VBox>
+    </layout:Grid>
+</layout:VerticalLayout>

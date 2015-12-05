@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<control xmlns="http://www.sap.com/sap.ui.library.xsd" >
+
+	<name>Rings</name>
+	<documentation>The Rings control is used to display related data as pie chart like concentric rings.</documentation>
+
+	<baseType>sap.ui.core/Control</baseType>
+	<properties>
+		<property group="Behavior" name="visible" type="sap.ui.core/boolean" defaultValue="true">
+			<documentation>Invisible controls are not rendered.</documentation>
+		</property>
+		<property group="Misc" name="width" type="sap.ui.core/CSSSize">
+		</property>
+		<property group="Misc" name="height" type="sap.ui.core/CSSSize">
+		</property>
+	</properties>
+	<aggregations>
+	</aggregations>
+</control>

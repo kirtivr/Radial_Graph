@@ -1,0 +1,31 @@
+.sapUiComponentContainer {
+    background-color: #ffffff;
+}
+
+.coolStyleClass {
+    margin-top: 4rem;
+}
+
+/* Styles for the Rings custom control */
+.concentric {
+    overflow: hidden;
+}
+.concentricchart path {
+    stroke: #cccccc;
+    stroke-width: 1px;
+}
+.legend_group circle {
+    stroke: #cccccc;
+    stroke-width: 1px;
+}
+.actualValue,
+.totalValue {
+    font-family: "Whitney Book", sans-serif !important;
+}
+.actualValue.italic,
+.totalValue.italic {
+    font-family: "Whitney Book Italic", sans-serif !important;
+}
+.ringsDiv {
+    margin-top: 6rem;
+}

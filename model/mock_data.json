@@ -1,0 +1,29 @@
+{
+  "ringsData": [
+    {
+      "DATA_LABEL": "India",
+      "DATA_TOTAL": "200.00000",
+      "DATA_VALUE": "32.00000"
+    },
+    {
+      "DATA_LABEL": "USA",
+      "DATA_TOTAL": "220.00000",
+      "DATA_VALUE": "100.00000"
+    },
+    {
+      "DATA_LABEL": "Saudi Arabia",
+      "DATA_TOTAL": "100.00000",
+      "DATA_VALUE": "100.00000"
+    },
+    {
+      "DATA_LABEL": "Pakistan",
+      "DATA_TOTAL": "100.00000",
+      "DATA_VALUE": "10.00000"
+    },
+    {
+      "DATA_LABEL": "Canada",
+      "DATA_TOTAL": "130.00000",
+      "DATA_VALUE": "112.00000"
+    }
+  ]
+}
